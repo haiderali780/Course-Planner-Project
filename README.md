@@ -15,5 +15,14 @@ This is a React application that allows users to create and manage a course sche
 **npm start**
 4. The login form will be available at **http://localhost:3000**.
 
+## Contributions
+
+If you'd like to contribute to the Course Planner project, please fork the repository and create a pull request with your changes.
+
+
+
+## Support
+If you have any questions , please contact me at haiderali782002@.com.gmail.com
+
 ## License
 This project is not licensed.
