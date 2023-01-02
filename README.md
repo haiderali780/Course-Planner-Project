@@ -22,7 +22,7 @@ If you'd like to contribute to the Course Planner project, please fork the repos
 
 
 ## Support
-If you have any questions , please contact me at haiderali782002@.com.gmail.com
+If you have any questions , please contact me at haiderali782002@gmail.com
 
 ## License
 This project is not licensed.
